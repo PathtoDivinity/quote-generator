@@ -11,7 +11,7 @@ const buttons = [
   },
   {
     id: 'norris',
-    innerHTML: '<img src="images/norris.png" alt="">',
+    innerHTML: '<img src="../images/norris.png" alt="">',
   },
   {
     id: 'new-quote',
